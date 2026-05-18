@@ -1,4 +1,4 @@
-This dashboard problem solves the problem
+This dashboard solves the following problem:
 
 1. What is our total revenue performance for the reporting period?
 2. How many total units have we sold across all markets and segments?
