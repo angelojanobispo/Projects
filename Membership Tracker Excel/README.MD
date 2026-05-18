@@ -10,7 +10,7 @@ For confidentiality, student numbers, names, and, sections are intentionally mas
 
 Purpose
 - Consolidate scattered Excel lists into one master file.
-- Organize data **year by year** and **semester by semester**.
+- Organize data year by year and semester by semester.
 - Verify every entry against the previous files to maintain accuracy.
 - Provide a clean, reliable dataset for future reference.
 
