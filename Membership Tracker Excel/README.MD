@@ -2,7 +2,7 @@ Excel Compilation Project
 
 Overview
 
-This project is an organized compilation of data that was previously scattered across multiple Excel files. The original files contained lists of names and records, but they were fragmented and inconsistent. To ensure accuracy and completeness, I manually checked each entry one by one and compiled them into a single updated version.
+This project is an organized compilation of data that was previously scattered across multiple Excel files. To ensure accuracy and completeness, I manually checked each entry one by one and compiled them into a single updated version.
 
 Privacy Notice
 
