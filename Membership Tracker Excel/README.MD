@@ -15,17 +15,13 @@ Purpose
 - Provide a clean, reliable dataset for future reference.
 
 Process
-1. Gathering Files
-   Collected all the scattered Excel files containing partial lists.
+1. Gathering Files - Collected all the scattered Excel files containing partial lists.
 
-2. Verification
-   Checked each entry individually against the original files to avoid missing or duplicating data.
+2. Verification - Checked each entry individually against the original files to avoid missing or duplicating data.
 
-3. Compilation  
-   Organized the data chronologically (by year and semester) and merged it into one updated Excel file.
+3. Compilation - Organized the data chronologically (by year and semester) and merged it into one updated Excel file.
 
-4. Final Review  
-   Ensured that the compiled version reflects the same information as the previous files, but in a structured and accessible format.
+4. Final Review - Ensured that the compiled version reflects the same information as the previous files, but in a structured and accessible format.
 
 Output
 - A single Excel file containing all verified records.
