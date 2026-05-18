@@ -1,9 +1,11 @@
 Excel Compilation Project
 
 Overview
+
 This project is an organized compilation of data that was previously scattered across multiple Excel files. The original files contained lists of names and records, but they were fragmented and inconsistent. To ensure accuracy and completeness, I manually checked each entry one by one and compiled them into a single updated version.
 
 Privacy Notice
+
 For confidentiality, **student numbers and names are intentionally masked (e.g., `*******`)**. This ensures that private information is not exposed while still demonstrating the structure and process of the dataset.
 
 Purpose
