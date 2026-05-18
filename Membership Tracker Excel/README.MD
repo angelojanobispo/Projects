@@ -6,7 +6,7 @@ This project is an organized compilation of data that was previously scattered a
 
 Privacy Notice
 
-For confidentiality, **student numbers and names are intentionally masked (e.g., `*******`)**. This ensures that private information is not exposed while still demonstrating the structure and process of the dataset.
+For confidentiality, student numbers, names, and, sections are intentionally masked (e.g., `*******`)**. This ensures that private information is not exposed while still demonstrating the structure and process of the dataset.
 
 Purpose
 - Consolidate scattered Excel lists into one master file.
