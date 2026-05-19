@@ -34,7 +34,5 @@ Benefits
 - Saves time by centralizing all information in one place.
 
 Features
-
-Dropdown for Payment Status – Instead of manually typing “Paid” or “Not Paid,” a dropdown list is provided. This saves time and ensures consistency.
-
-Conditional Formatting – The cell color changes automatically based on the selected status (green for Paid, red for Not Paid). This adds quick visual validation and reduces errors.
+- Dropdown for Payment Status – Instead of manually typing “Paid” or “Not Paid,” a dropdown list is provided. This saves time and ensures consistency.
+- Conditional Formatting – The cell color changes automatically based on the selected status (green for Paid, red for Not Paid). This adds quick visual validation and reduces errors.
