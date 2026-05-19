@@ -1,3 +1,13 @@
+
+File Guide
+
+png image → Preview of the dashboard itself for quick viewing without opening Power BI.
+
+pbix file → the actual Power BI dashboard where you can open and edit.
+
+
+
+
 This dashboard solves the following problem:
 
 1. What is our total revenue performance for the reporting period?
